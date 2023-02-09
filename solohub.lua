@@ -1,1 +1,1 @@
-pribt("hello world")
+print("hello world")
